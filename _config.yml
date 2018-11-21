@@ -8,9 +8,9 @@
     name: hikaru
     url: https://twitter.com/clone_baal
 author: kou
-description: 3DCG、コンピュータソフトウェア、ハードウェアなどについて話すPodcastです
+description: 3DCG、コンピュータソフトウェア、ハードウェアなどについて話すPodcastです。
 description_long: 3DCG、コンピュータソフトウェア、ハードウェアなどについて話すPodcast
-email:
+email: info@example.com
 exclude:
   - docker
   - docker-compose.yml
@@ -31,4 +31,3 @@ sass:
 timezone: Asia/Tokyo
 title: Empty Attribute
 url: https://emptyattribute.net
-audiourl: 

@@ -1,3 +1,3 @@
-# EAFM
+# Yattecast
 
-https://hikaru-sg.github.io/EAFM/
+https://r7kamura.github.io/yattecast/

@@ -1,0 +1,35 @@
+.header {
+  background-image: url(../images/artwork.jpg);
+  background-size: cover;
+  background-position: center;
+
+  &-description {
+    color: $color-text-light-secondary;
+    font-size: 0.8rem;
+  }
+
+  &-heading {
+    color: $color-text-light-primary;
+    font-size: 2rem;
+    font-weight: 500;
+
+    a {
+      &,
+      &:active,
+      &:focus,
+      &:hover {
+        color: inherit;
+      }
+    }
+  }
+
+  &-overlay {
+    background-color: rgba(0, 0, 0, 0.3);
+    height: 100%;
+    padding-bottom: 72px;
+    padding-top: 72px;
+  }
+
+  &-mainmenu {
+
+}

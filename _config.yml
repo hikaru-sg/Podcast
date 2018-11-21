@@ -1,4 +1,4 @@
-actors:
+ï»¿actors:
   kou:
     image_url: /images/actors/kou.png
     name: kou
@@ -8,8 +8,8 @@ actors:
     name: hikaru
     url: https://twitter.com/clone_baal
 author: kou
-description: 3DCGAƒRƒ“ƒsƒ…[ƒ^ƒ\ƒtƒgƒEƒFƒAAƒn[ƒhƒEƒFƒA‚È‚Ç‚É‚Â‚¢‚Ä˜b‚·Podcast‚Å‚·B
-description_long: 3DCGAƒRƒ“ƒsƒ…[ƒ^ƒ\ƒtƒgƒEƒFƒAAƒn[ƒhƒEƒFƒA‚È‚Ç‚É‚Â‚¢‚Ä˜b‚·Podcast
+description: 3DCGã€ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ã‚½ãƒ•ãƒˆã‚¦ã‚§ã‚¢ã€ãƒãƒ¼ãƒ‰ã‚¦ã‚§ã‚¢ãªã©ã«ã¤ã„ã¦è©±ã™Podcastã§ã™ã€‚
+description_long: 3DCGã€ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ã‚½ãƒ•ãƒˆã‚¦ã‚§ã‚¢ã€ãƒãƒ¼ãƒ‰ã‚¦ã‚§ã‚¢ãªã©ã«ã¤ã„ã¦è©±ã™Podcast
 email: info@example.com
 exclude:
   - docker
@@ -22,7 +22,7 @@ exclude:
 google_analytics: UA-129520750-1
 hashtag: EA_Net
 itunes_podcast_url:
-keywords: tech,3dcg,technology,programming,podcast,ƒ|ƒbƒhƒLƒƒƒXƒg,EANET
+keywords: tech,3dcg,technology,programming,podcast,ãƒãƒƒãƒ‰ã‚­ãƒ£ã‚¹ãƒˆ,EANET
 language: ja
 markdown: kramdown
 permalink: /episode/:title

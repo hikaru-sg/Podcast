@@ -1,3 +1,3 @@
-# Yattecast
+# EmptyAttribute
 
-https://r7kamura.github.io/yattecast/
+https://emptyattribute.net/

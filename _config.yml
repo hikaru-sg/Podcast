@@ -21,7 +21,7 @@ exclude:
   - vendor
 google_analytics: UA-129520750-1
 hashtag: EA_Net
-itunes_podcast_url:
+itunes_podcast_url:https://emptyattribute.net/feed.xml
 keywords: tech,3dcg,technology,programming,podcast,ポッドキャスト,EANET
 language: ja
 markdown: kramdown
@@ -30,4 +30,4 @@ sass:
   sass_dir: css
 timezone: Asia/Tokyo
 title: Empty Attribute
-url: https://hikaru-sg.github.io/EA.Net
+url: https://emptyattribute.net/

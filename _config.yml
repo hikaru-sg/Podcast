@@ -7,6 +7,10 @@
     image_url: /images/actors/hikaru.png
     name: hikaru
     url: https://twitter.com/clone_baal
+  HAMINA:
+    image_url: /images/actors/hamina.png
+    name: HAMINA
+    url: https://twitter.com/HAMINA_Nyhem
 author: kou
 description: 3DCG、コンピュータソフトウェア、ハードウェアなどについて話すPodcastです。
 description_long: 3DCG、コンピュータソフトウェア、ハードウェアなどについて話すPodcast

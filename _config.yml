@@ -11,9 +11,9 @@
     image_url: /images/actors/hamina.png
     name: HAMINA
     url: https://twitter.com/HAMINA_Nyhem
-author: kou
-description: 3DCG、コンピュータソフトウェア、ハードウェアなどについて話すPodcastです。
-description_long: 3DCG、コンピュータソフトウェア、ハードウェアなどについて話すPodcast
+author: kou, Hikaru
+description: 3DCG、ソフトウェア、ハードウェア、ガジェットなどについて話すテック系Podcastです。
+description_long: 3DCG、ソフトウェア、ハードウェア、ガジェットなどについて話すテック系Podcast
 email: info@example.com
 exclude:
   - docker

@@ -26,7 +26,7 @@ exclude:
 google_analytics: UA-129520750-1
 hashtag: EA_Net
 itunes_podcast_url: https://itunes.apple.com/jp/podcast/empty-attribute/id1445355288?mt=2
-keywords: tech,3dcg,technology,programming,podcast,ポッドキャスト,EANET
+keywords: tech,3dcg,technology,programming,podcast,ポッドキャスト,EANET,テクノロジー,ガジェット
 language: ja
 markdown: kramdown
 permalink: /episode/:title
